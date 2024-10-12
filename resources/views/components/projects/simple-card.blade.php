@@ -1,4 +1,4 @@
-{{-- @props(['project'])
+@props(['project'])
 <x-ui.card>
     <div class="flex items-start justify-between pb-4">
         <div class="flex flex-col gap-[16px]">
@@ -57,4 +57,4 @@
             </div>
         </div>
     </div>
-</x-ui.card> --}}
+</x-ui.card>
